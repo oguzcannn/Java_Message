@@ -5,4 +5,4 @@ public class Admin extends User{
         super(user_id, friends_id, user_name, user_password);
     }
 }
-
+//
